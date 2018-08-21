@@ -4,7 +4,7 @@
 //
 //  Created by 学而思 on 2018/8/13.
 //  Copyright © 2018年 智康. All rights reserved.
-//tag 1.0.4
+//tag 1.0.5
 
 #import <Foundation/Foundation.h>
 

@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s| 
 s.name = 'qmframeworkTest'
-s.version = '1.0.4'
+s.version = '1.0.5'
 s.summary      = "测试framework"
 s.description  = <<-DESC
 测试framework,测试静态库上传cocoapods
@@ -14,4 +14,5 @@ s.source = { :git => 'https://github.com/qiaoming1990321/frameworkTest.git', :ta
 s.vendored_frameworks = "*.framework"
 s.requires_arc = true 
 s.framework = 'UIKit' 
+s.dependency = 'SDWebImage'
 end
