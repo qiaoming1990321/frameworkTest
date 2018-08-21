@@ -14,5 +14,5 @@ s.source = { :git => 'https://github.com/qiaoming1990321/frameworkTest.git', :ta
 s.vendored_frameworks = "*.framework"
 s.requires_arc = true 
 s.framework = 'UIKit' 
-s.dependency = 'SDWebImage'
+
 end
